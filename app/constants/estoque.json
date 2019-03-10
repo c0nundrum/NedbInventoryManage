@@ -1,0 +1,18 @@
+{
+  "01": {
+    "_id": 13135,
+    "produto": "Camisa",
+    "sexo:": "m",
+    "quantidade": {
+      "p": 2,
+      "m": 0,
+      "g": 5
+    },
+    "preco": {
+      "atacado": 20.5,
+      "varejo": 25.5
+    },
+    "fabricante": "Nike",
+    "total": 50
+  }
+}

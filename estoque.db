@@ -1,0 +1,4 @@
+{"produto":"","sexo":"","fabricante":"","total":0,"_id":"B8csV0WA8AO6q4W0"}
+{"produto":"c","sexo":"b","fabricante":"e","total":"d","_id":"N50jvLq7M0XhwBZ2"}
+{"produto":"a","sexo":"s","fabricante":"d","total":"f","_id":"nnMAT3BPG01bMbJT"}
+{"produto":"camisa","sexo":"m","quantidade":{"p":50,"m":20,"g":30},"preco":{"atacado":10.5,"varejo":12.5},"fabricante":"nike","total":100,"_id":"vWNUj4ZcHWyVd65z"}
